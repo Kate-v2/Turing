@@ -1,4 +1,4 @@
-* I enjoyed this project and wanted to revisit it independently, starting completely fresh. *
+**I enjoyed this project and wanted to revisit it independently, starting completely fresh.**
 
 
 Originally a mod 1 paired project (Final - weeks 4-6)
